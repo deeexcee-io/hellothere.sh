@@ -22,7 +22,7 @@ EOF
 check_uid(){
         if [[ $EUID != 0 ]]
         then
-                printf "\nThis script must be run as root or with sudo permissions. Please run using sudo."
+                printf "\nNeed root or sudo......"
                 exit 1
         fi
 }
