@@ -98,7 +98,7 @@ play_music(){
                 printf "\nDont have a good day......have a great day!\n\n"
                 parole /home/gd/Tools/musikcube/251_kush_sessions.mp3 > /dev/null 2>&1 &
         fi
-        #printf "\nDont have a good day......have a great day!"
+        printf "\nDont have a good day......have a great day!"
 }
 
 
