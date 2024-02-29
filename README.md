@@ -28,5 +28,8 @@ Obsidian synced with google drive
 Running Speed Test........
 Todays Download Speed is............209.20 Mbit/s
 You want some Beats ^^^ !!! ***** : y
+
+Dont have a good day......have a great day!
+
 ```
 
